@@ -1,0 +1,15 @@
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/dark-theme-editor"]
+	path = themes/dark-theme-editor
+	url = https://github.com/JingWangTW/dark-theme-editor.git
+[submodule "themes/hugo-theme-next"]
+	path = themes/hugo-theme-next
+	url = https://github.com/hugo-next/hugo-theme-next.git
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
