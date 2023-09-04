@@ -1,7 +1,7 @@
 ---
 title: "kubeadm部署K8S集群"
 description: "kubeadm+CRI-O部署K8S集群"
-date: 2023-01-13T17:35:40+08:00
+date: 2023-09-05T00:59:00+10:00
 categories:
   - 学习
 tags:
