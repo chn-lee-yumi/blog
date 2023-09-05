@@ -2,12 +2,14 @@
 title: "kubeadm部署K8S集群"
 description: "kubeadm+CRI-O部署K8S集群"
 date: 2023-09-05T00:59:00+10:00
+lastmod: 2023-09-05T21:43:00+10:00
 categories:
   - 学习
 tags:
   - Linux
   - K8S
 ---
+
 
 ## 安装CRI-O
 
@@ -147,9 +149,11 @@ systemctl enable --now kubelet
 
 ## 配置kubelet
 
+注意修改`--node-ip`。
+
 ```shell
 cat << EOF | sudo tee /etc/sysconfig/kubelet
-KUBELET_EXTRA_ARGS="--root-dir=/home/kubelet --fail-swap-on=false"
+KUBELET_EXTRA_ARGS="--root-dir=/home/kubelet --fail-swap-on=false --node-ip=10.9.0.12"
 EOF
 ```
 
