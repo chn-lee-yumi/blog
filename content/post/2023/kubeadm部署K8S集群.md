@@ -2,14 +2,13 @@
 title: "kubeadm部署K8S集群"
 description: "kubeadm+CRI-O部署K8S集群"
 date: 2023-09-05T00:59:00+10:00
-lastmod: 2023-09-05T21:43:00+10:00
+lastmod: 2023-09-06T23:20:00+10:00
 categories:
   - 学习
 tags:
   - Linux
   - K8S
 ---
-
 
 ## 安装CRI-O
 
@@ -95,6 +94,7 @@ cat << EOF | sudo tee /etc/cni/net.d/100-crio-bridge.conflist
   "plugins": [
     {
       "type": "bridge",
+      "mtu": 1420,
       "bridge": "cni0",
       "isGateway": true,
       "ipMasq": true,
@@ -160,7 +160,7 @@ EOF
 ## 初始化控制平面节点(主节点执行)
 
 ```shell
-kubeadm init --cri-socket unix:///var/run/crio/crio.sock --image-repository registry.aliyuncs.com/google_containers --apiserver-advertise-address=10.9.0.10
+kubeadm init --cri-socket unix:///var/run/crio/crio.sock --image-repository registry.aliyuncs.com/google_containers --apiserver-advertise-address=10.9.0.10 --pod-network-cidr=10.9.0.0/16
 ```
 
 ## 卸载
@@ -173,6 +173,12 @@ kubeadm reset --cri-socket unix:///var/run/crio/crio.sock
 
 `--token`和`--discovery-token-ca-cert-hash`根据kubeadm的输出改。
 
-```
+```shell
 kubeadm join 10.9.0.10:6443 --cri-socket unix:///var/run/crio/crio.sock --token 5riq16.lqmfkw94eff6ovo2 --discovery-token-ca-cert-hash sha256:9589d683977ce5511f4cf61912b17bef41ab9696ab2d5664fa94310910811387
+```
+
+## 主节点允许调度
+
+```shell
+kubectl taint no [主节点名字] node-role.kubernetes.io/control-plane:NoSchedule-
 ```
