@@ -216,7 +216,7 @@ kubectl apply -f https://github.com/flannel-io/flannel/releases/latest/download/
 
 256MB内存的小板子也能成为k8s节点！我以前喜欢买各种小板子，现在手上一堆板，我把他们组成一个 k8s 集群。这个集群有四个节点，总计16核心，2.75GB 内存。最小的节点内存只有 256MB。
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=442688262&bvid=BV1PL411v7p7&cid=1099870376&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=442688262&bvid=BV1PL411v7p7&cid=1099870376&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

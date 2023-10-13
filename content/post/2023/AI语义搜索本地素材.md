@@ -34,7 +34,7 @@ AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描
 
 20230515: 目前已支持docker部署。
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=698195036&bvid=BV1vm4y1C7SL&cid=1114965423&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=698195036&bvid=BV1vm4y1C7SL&cid=1114965423&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

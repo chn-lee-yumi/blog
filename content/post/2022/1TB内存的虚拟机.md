@@ -16,7 +16,7 @@ tags:
 
 ## B站视频
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=613389493&bvid=BV1wh4y1n7vE&cid=1121983337&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=613389493&bvid=BV1wh4y1n7vE&cid=1121983337&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

@@ -40,7 +40,7 @@ NAME       ALGORITHM DISKSIZE DATA COMPR TOTAL STREAMS MOUNTPOINT
 
 有些人可能就会想到，我想说的是交换分区吗？是，但又不完全是。
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=953940482&bvid=BV1Ls4y1u7ky&cid=1137867780&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=953940482&bvid=BV1Ls4y1u7ky&cid=1137867780&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

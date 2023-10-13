@@ -33,7 +33,7 @@ QQ机器人用[go-cqhttp](https://github.com/Mrs4s/go-cqhttp)加Python实现。
 
 翻了四个群六天的聊天记录，统计到最后脑子都一坨浆糊了，求三连回血QAQ
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=436078389&bvid=BV1E3411978P&cid=984770951&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=436078389&bvid=BV1E3411978P&cid=984770951&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

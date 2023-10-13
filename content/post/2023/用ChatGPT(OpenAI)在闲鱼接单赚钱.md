@@ -23,7 +23,7 @@ tags:
 
 相关视频：[使用ChatGPT在Q群解答问题](https://www.bilibili.com/video/BV1E3411978P/)
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=692567074&bvid=BV1T24y1v7oT&cid=958739031&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=692567074&bvid=BV1T24y1v7oT&cid=958739031&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

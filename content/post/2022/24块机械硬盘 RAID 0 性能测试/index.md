@@ -84,7 +84,7 @@ fio --iodepth=32 --numjobs 1 --size=$size --norandommap --readwrite=read --bs=4M
 
 ## B站视频
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=485709242&bvid=BV1zT411h7Pc&cid=1117059965&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=485709242&bvid=BV1zT411h7Pc&cid=1117059965&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

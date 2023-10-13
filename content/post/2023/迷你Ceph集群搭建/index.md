@@ -678,7 +678,7 @@ reboot
 
 我在家用了一块512M内存的ARMv7板子、一块1G内存的ARM64板子和一块2G内存的AMD64的HTPC和一根2G内存的Intel电脑棒搭建了一个Ceph集群。其中HTPC作为mon,mgr,mds,osd，而其它三个设备作为osd。他们都是百兆网络。我的目的是为了学习Ceph集群的搭建，此外也对Ceph集群的性能比较感兴趣。因此我用了一块ARM64的板子（有千兆网络）作为客户端，挂载cephfs进行性能测试。除了cephfs，我还用rados进行了性能测试。我测试了两节点、三节点和四节点的情况下的性能并进行了对比。我的Ceph集群是双副本的。总的来说顺序读写随着节点越多，性能越好，但随机读写因节点数量太少，暂时看不出趋势。
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=740669089&bvid=BV1Lk4y1E7LZ&cid=1115026484&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=740669089&bvid=BV1Lk4y1E7LZ&cid=1115026484&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 

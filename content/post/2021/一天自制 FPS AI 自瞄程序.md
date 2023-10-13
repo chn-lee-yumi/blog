@@ -24,7 +24,7 @@ tags:
 
 视频分辨率有点低，因为是前年的素材，我拖到现在才发，导致原来的高清素材找不到了。你觉得我是是故意的还是不小心的？用OpenPose实现了一个很简单的AI自瞄程序，代码只有72行（视频一百多行是口误）。代码是前年的时候花了一天时间写的，目的是为了验证AI自瞄的可行性。
 
-<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=352846910&bvid=BV1FX4y1D7Ck&cid=1031990834&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe style="height:360px;width:640px" src="//player.bilibili.com/player.html?aid=352846910&bvid=BV1FX4y1D7Ck&cid=1031990834&page=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 视频文字稿
 
