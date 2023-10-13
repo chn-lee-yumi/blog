@@ -2,6 +2,7 @@
 title: "24块机械硬盘 RAID 0 性能测试"
 description: "24块机械硬盘 RAID 0 性能测试"
 date: 2022-02-07T01:15:00+08:00
+lastmod: 2023-10-13T15:19:00+11:00
 categories:
   - 折腾
 tags:
@@ -15,6 +16,27 @@ tags:
 服务器型号是戴尔的 R730xd，RAID 卡是 PERC H330 Mini，上面插了 24 块 1.2T 的 2.5 寸企业级 SAS 机械硬盘。
 
 测试工具为fio。
+
+## 测试脚本
+
+```shell
+filename=fio.test  # 视频里这里是/dev/sdb
+size=100GB
+# 随机写
+fio --iodepth=32 --numjobs 16 --size=$size --norandommap --readwrite=randwrite --bs=4K --runtime=120 --filename=$filename --ioengine=libaio --direct=1 --group_reporting --name=iops_write
+# 清除cache
+sync
+echo 1 > /proc/sys/vm/drop_caches
+# 随机读
+fio --iodepth=32 --numjobs 16 --size=$size --norandommap --readwrite=randread --bs=4K --runtime=120 --filename=$filename --ioengine=libaio --direct=1 --group_reporting --name=iops_read
+# 顺序写
+fio --iodepth=32 --numjobs 1 --size=$size --norandommap --readwrite=write --bs=4M --runtime=120 --filename=$filename --ioengine=libaio --direct=1 --name=seq_write
+# 清除cache
+sync
+echo 1 > /proc/sys/vm/drop_caches
+# 顺序读
+fio --iodepth=32 --numjobs 1 --size=$size --norandommap --readwrite=read --bs=4M --runtime=120 --filename=$filename --ioengine=libaio --direct=1 --name=seq_read
+```
 
 ## 单盘性能测试
 
