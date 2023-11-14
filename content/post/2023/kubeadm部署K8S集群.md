@@ -2,7 +2,7 @@
 title: "kubeadm部署K8S集群"
 description: "kubeadm+CRI-O部署K8S集群"
 date: 2023-09-05T00:59:00+10:00
-lastmod: 2023-09-06T23:20:00+10:00
+lastmod: 2023-11-14T14:15:00+10:00
 categories:
   - 学习
 tags:
@@ -182,3 +182,13 @@ kubeadm join 10.9.0.10:6443 --cri-socket unix:///var/run/crio/crio.sock --token 
 ```shell
 kubectl taint no [主节点名字] node-role.kubernetes.io/control-plane:NoSchedule-
 ```
+
+## 集群扩容
+
+新的节点和之前一样部署。但是在加入集群之前需要在主节点生成token。
+
+```shell
+kubeadm token create
+```
+
+之后正常使用`kubeadm join`加集群。
