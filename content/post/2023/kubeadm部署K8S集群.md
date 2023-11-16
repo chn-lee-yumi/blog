@@ -2,7 +2,7 @@
 title: "kubeadm部署K8S集群"
 description: "kubeadm+CRI-O部署K8S集群"
 date: 2023-09-05T00:59:00+10:00
-lastmod: 2023-11-14T14:15:00+10:00
+lastmod: 2023-11-16T18:22:00+10:00
 categories:
   - 学习
 tags:
@@ -118,11 +118,11 @@ EOF
 
 ### Ubuntu
 
-这里用1.28版本。
+这里用1.26版本。
 
 ```shell
-curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.28/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
-echo 'deb [signed-by=/etc/apt/keyrings/kubernetes-apt-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1.28/deb/ /' | sudo tee /etc/apt/sources.list.d/kubernetes.list
+curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.26/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
+echo 'deb [signed-by=/etc/apt/keyrings/kubernetes-apt-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1.26/deb/ /' | sudo tee /etc/apt/sources.list.d/kubernetes.list
 apt-get update
 apt-get install -y kubelet kubeadm kubectl
 apt-mark hold kubelet kubeadm kubectl
@@ -130,7 +130,7 @@ apt-mark hold kubelet kubeadm kubectl
 
 ### CentOS
 
-这里默认最新版本，如果想指定版本，则修改yum命令，如：`yum install kubelet-1.28.1-0  kubeadm-1.28.1-0 kubectl-1.28.1-0 -y`。
+这里默认最新版本，如果想指定版本，则修改yum命令，如：`yum install kubelet-1.26.8-0  kubeadm-1.26.8-0 kubectl-1.26.8-0 -y`。
 
 ```shell
 setenforce 0
@@ -152,6 +152,19 @@ systemctl enable --now kubelet
 注意修改`--node-ip`。
 
 ```shell
+cat << EOF | sudo tee /usr/lib/systemd/system/kubelet.service.d/10-kubeadm.conf
+# Note: This dropin only works with kubeadm and kubelet v1.11+
+[Service]
+Environment="KUBELET_KUBECONFIG_ARGS=--bootstrap-kubeconfig=/etc/kubernetes/bootstrap-kubelet.conf --kubeconfig=/etc/kubernetes/kubelet.conf"
+Environment="KUBELET_CONFIG_ARGS=--config=/var/lib/kubelet/config.yaml"
+# This is a file that "kubeadm init" and "kubeadm join" generates at runtime, populating the KUBELET_KUBEADM_ARGS variable dynamically
+EnvironmentFile=-/var/lib/kubelet/kubeadm-flags.env
+# This is a file that the user can use for overrides of the kubelet args as a last resort. Preferably, the user should use
+# the .NodeRegistration.KubeletExtraArgs object in the configuration files instead. KUBELET_EXTRA_ARGS should be sourced from this file.
+EnvironmentFile=-/etc/sysconfig/kubelet
+ExecStart=
+ExecStart=/usr/bin/kubelet $KUBELET_KUBECONFIG_ARGS $KUBELET_CONFIG_ARGS $KUBELET_KUBEADM_ARGS $KUBELET_EXTRA_ARGS
+EOF
 cat << EOF | sudo tee /etc/sysconfig/kubelet
 KUBELET_EXTRA_ARGS="--root-dir=/home/kubelet --fail-swap-on=false --node-ip=10.9.0.12"
 EOF
@@ -192,3 +205,7 @@ kubeadm token create
 ```
 
 之后正常使用`kubeadm join`加集群。
+
+## CentOS7的坑
+
+- `/opt/cni/bin/`这里没有CNI插件，需要自己另外下。
