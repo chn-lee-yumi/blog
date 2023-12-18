@@ -39,7 +39,7 @@ tags:
     cd MaterialSearch
     ..\python main.py
     ```
-7. 下载[FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip)，解压后将`ffmpeg.exe`复制到`MaterialSearchWindows`目录。
+7. 下载[FFMpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z)，解压后将`ffmpeg.exe`复制到`MaterialSearchWindows`目录。
 8. 最后所有文件夹一起打包压缩。后续执行程序，执行`运行.bat`即可。
 
 目录结构如下：
