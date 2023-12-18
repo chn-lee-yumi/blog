@@ -1,7 +1,7 @@
 ---
 title: "构建Python的Windows整合包教程"
 description: "构建Python的Windows整合包教程"
-date: 2023-12-18T18:19:00+11:00
+date: 2023-12-18T19:06:00+11:00
 categories:
   - 折腾
 tags:
@@ -33,12 +33,14 @@ tags:
     SET DEVICE=cpu
     SET DEVICE_TEXT=cpu
     :: 下面的不要改
+    SET PATH=%PATH%;..\
     SET TRANSFORMERS_OFFLINE=1
     SET TRANSFORMERS_CACHE=..\huggingface
     cd MaterialSearch
     ..\python main.py
     ```
-7. 最后所有文件夹一起打包压缩。后续执行程序，执行`运行.bat`即可。
+7. 下载[FFMpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip)，解压后将`ffmpeg.exe`复制到`MaterialSearchWindows`目录。
+8. 最后所有文件夹一起打包压缩。后续执行程序，执行`运行.bat`即可。
 
 目录结构如下：
 
