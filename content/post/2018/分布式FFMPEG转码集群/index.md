@@ -1,7 +1,8 @@
 ---
-title: "分布式FFMPEG转码集群"
-description: "分布式FFMPEG转码集群"
+title: "分布式FFMpeg转码集群"
+description: "分布式FFMpeg转码集群。FFMpeg集群转码。"
 date: 2018-06-17T02:43:17+08:00
+lastmod: 2023-12-30T00:22:00+11:00
 categories:
   - 折腾
 tags:

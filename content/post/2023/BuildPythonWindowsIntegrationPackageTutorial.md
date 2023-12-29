@@ -29,7 +29,7 @@ tags:
     ```powershell
     :: 下面配置扫描路径，多个路径之间用逗号分隔
     SET ASSETS_PATH=C:/Users/Administrator/Pictures,C:/Users/Administrator/Videos
-    :: 下面配置设备，cpu或gpu
+    :: 下面配置设备，cpu或cuda
     SET DEVICE=cpu
     SET DEVICE_TEXT=cpu
     :: 下面的不要改
