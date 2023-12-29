@@ -1,13 +1,13 @@
 ---
-title: "分布式FFMpeg转码集群"
-description: "分布式FFMpeg转码集群。FFMpeg集群转码。"
+title: "分布式FFmpeg转码集群"
+description: "分布式FFmpeg转码集群。FFmpeg集群转码。"
 date: 2018-06-17T02:43:17+08:00
 lastmod: 2023-12-30T00:22:00+11:00
 categories:
   - 折腾
 tags:
   - Linux
-  - FFMpeg
+  - FFmpeg
 ---
 
 代码已上传到GitHub。项目链接： https://github.com/chn-lee-yumi/distributed_ffmpeg_transcoding_cluster
