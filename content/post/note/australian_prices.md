@@ -8,20 +8,19 @@ categories:
 tags:
   - 生活
 ---
-
 一般 < 可以 = 还行 < 不错
 
 ## 罐头
 
 |商品|描述|价格|评价|
 |---|---|---|---|
-| COLES PEAS CARROTS | 豌豆胡萝卜罐头 | $1.35/420g (现在升价到$1.8了) | 32%的豌豆和21%的胡萝卜，味道还行，不过新鲜胡萝卜更便宜 |
+| COLES PEAS CARROTS | 豌豆胡萝卜罐头 | $1.35/420g (现在升价到$1.8了) | 32%的豌豆和21%的胡萝卜，味道还行，微甜，不过新鲜胡萝卜更便宜 |
 | COLES BLACK PITTED C | 樱桃罐头 | $3.8/425g | 还行 |
 | Coles Creamed Corn | 玉米碎罐头 | $1.1/420g | 还行 |
 | Woolworths Corn Sweet Kernels | 玉米粒罐头 | $1.1/420g | 不错 |
 | Woolworths Chickpeas No Added Salt | 鹰嘴豆罐头 | $1.1/420gg | 一般 |
-| Woolworths Four Bean Mix No Added Salt Can | 四豆混合罐头 | $1.1/420g | 还行，做八宝粥不错 |
-| Woolworths Lentils No Added Salt | 扁豆罐头 | $1.1/420g | 一般，做八宝粥还行 |
+| Woolworths Four Bean Mix No Added Salt Can | 四豆混合罐头 | $1.1/420g（现在降价到$1了） | 还行，做八宝粥不错 |
+| Woolworths Lentils No Added Salt | 扁豆罐头 | $1.1/420g（现在降价到$1了） | 一般，做八宝粥还行 |
 | COLES TUNA | 吞拿鱼罐头 | $1.1/95g | 还行 |
 | COLES TUNA | 吞拿鱼罐头 | $3.5/425g | 性价比最高的吞拿鱼罐头，但是需要开罐器 |
 | Deli Tuna 90g EXTRA VIRGIN OLIVE OIL BLEND & PINK SALT | 吞拿鱼罐头 | $2.5/90g | 味道不错，就是略贵 |
@@ -34,8 +33,7 @@ tags:
 | Essentials Diced Tomatoes | 番茄罐头 | $0.97/400g | 味道还可以，没有拉环 |
 | Woolworths Champignon Pieces Stems | 口蘑罐头 | $1.7/400g | 味道还行 |
 | Woolworths Champignon Whole | 口蘑罐头 | $1.7/400g | 味道还行 |
-| Woolworths Garlic Minced | 蒜蓉罐头 | $2.4/500g | 还行，很香，但是是酸的 |
-|  |  |  |  |
+| Woolworths Garlic Minced | 蒜蓉罐头 | $2.4/500g | 还行，很香，但是是酸的（估计是用乳酸保鲜） |
 |  |  |  |  |
 
 ## 主食
@@ -49,49 +47,68 @@ tags:
 | TIP TOP MUFFINS | 松包 | $3/6个 | 不好吃 |
 | SAN REMO LA PASTA | 芝士意面配粉 | $1.4/80g | 还行，可能加奶更好吃，性价比不高 |
 | B/EYE HASH BROWNS | 薯饼 | $5.3/800g | 一般 |
-| McCain Superfries Crinkle Cut | 薯条 | $4.8/900g | **还没吃...** |
-| McCain Hash Browns Shredded | 薯饼 | $5.8/750g | **还没吃...** |
+| McCain Superfries Crinkle Cut | 薯条 | $4.8/900g | 还行 |
+| McCain Hash Browns Shredded | 薯饼 | $5.8/750g | 比正常薯饼窄，还行 |
 | SEASONS PRIDE Crinkle Cut Chips / French Fries | 薯条 | $3.59/kg | Aldi，没买 |
 | SEASONS PRIDE Steak Cut Chips | 薯片？ | $2.99/750g | Aldi，没买 |
 | IBUMIE Instant Noodle | 纯方便面，波浪面，一袋10块 | $4.1/650g | 还可以，就是贵 |
 | Jinmailang Egg Noodle | 今麦郎鸡蛋面 | $3.1/kg | 还行 |
 |  |  |  |  |
 
+主食推荐最便宜的米（$8.5/5kg）和最便宜的意面（$0.9/500g）。
+
 ## 蔬果
 
 |商品|描述|价格|评价|
 |---|---|---|---|
-| I'M PERFECT CARROTS | 胡萝卜 | cols 打折最低价$1/1.5kg 有时$1.2/1.5kg | 比国内便宜，性价比最高 |
+| I'M PERFECT CARROTS | 胡萝卜 | cols 打折最低价$1/1.5kg 有时$1.2/1.5kg，再贵点$1.9/1.5kg | 比国内便宜，性价比最高 |
 | JADE PHOENIX FUNGUS | 干黑木耳 | $2.15/100g | coles/wws 比国内便宜（我妈说和国内差不多）  |
-| ICEBERG LETTUCE | 包生菜 | coles $1.4/each ~900+g | 比国内便宜，还可以 |
+| ICEBERG LETTUCE | 球生菜 | coles 便宜的时候$1.4/each ~900+g，贵的时候$2.5/each | 比国内便宜，还可以 |
 | Cabbage Drum Head | 包菜 | $1.99/each ~3000g | IGA买的，比国内便宜，性价比很高 |
-| Cabbage Red Half | 紫甘蓝 | $2.4/each ~700g | wws 比国内贵，比绿包菜苦 |
+| Cabbage Red Half | 半个紫甘蓝 | $2.4/each ~700g | wws 比国内贵，比绿包菜苦 |
 | Blueberry | 蓝莓 | $2/170g（$11.76/kg） | coles/wws 比国内便宜，性价比很高 |
 | Strawberry | 草莓 | $2/250g（$8/kg） | coles/wws 比国内便宜，性价比很高 |
+| Broccoli | 西兰花 | $1.99/kg | IGA，价格和国内差不多，质量看脸，买过有很多黑点的 |
 | Buk Choy | 大白菜 | $2.5/each ~590g | wws 比国内贵 |
 | Wombok Half (Chinese Cabbage) | 娃娃菜 | $2.95/half ~631g | wws 比国内贵 |
-| Chinese Cabbage Wombok Baby | 娃娃菜 | 两个$3 ~1586g | IGA买的，应该是最便宜的娃娃菜了 |
-| Broccoli | 西兰花 | $1.99/kg | IGA |
-| Telegraph Cucumber | 青瓜 | $1.99/each | IGA |
-| Baby Buk Choy | 上海青 | $1.5/bunch | IGA |
-| Sweet Corn | 甜玉米 | $0.8/each $3/4个 | coles，没买 |
+| Coles Baby Cucumbers | 水果黄瓜 | $3/250g | 比国内贵 |
+| Chinese Cabbage Wombok Baby | 娃娃菜 | 两个$3 ~1586g | IGA买的，应该是最便宜的娃娃菜了，但还是比国内贵 |
+| Telegraph Cucumber | 黄瓜 | $1.99/each | IGA，还没买 |
+| Baby Buk Choy | 上海青 | $1.5/bunch | IGA，还没买 |
+| Sweet Corn | 甜玉米 | $0.8/each $3/4个 | coles，还没买 |
 |  |  |  |  |
 
-IGA买的菜虽然便宜但是质量经常不好。不要在IGA买：西兰花。
+IGA买的菜虽然便宜但是质量经常不好。
 
-蓝莓国内价格：$32/kg
-草莓国内价格：$19/kg
-球生菜国内价格：$4.2/kg
-娃娃菜国内价格：$1.67/kg
-紫甘蓝国内价格：$1.63/kg
-包菜国内价格：$1.41/kg
-羽衣甘蓝国内价格：$7.58/kg
-苦菊国内价格：$6.59/kg
-生菜国内价格：$1.96/kg
-大白菜国内价格：$2.26/kg
-上海青国内价格：$2.66/kg
-干黑木耳国内价格：$35.6/kg
-胡萝卜国内价格：$2/kg
+可以接受的蔬菜的价格范围：
+- 胡萝卜：<=$2/kg，最好<=$1.5/kg
+- 球生菜：<=$2.5/each，最好<=$2/each
+- 包菜：<=$4/each，最好<=$3/each
+- 蓝莓：<=$2.5/170g
+- 草莓：<=$2.5/250g
+
+已记录重量和价格：
+- 胡萝卜国内价格：$2/kg
+- 干黑木耳国内价格：$26.6/kg
+- 球生菜国内价格：$4.2/kg
+- 包菜国内价格：$1.41/kg
+- 紫甘蓝国内价格：$1.63/kg
+- 蓝莓国内价格：$32/kg
+- 草莓国内价格：$19/kg
+- 西兰花国内价格：$2/kg
+- 大白菜国内价格：$2.26/kg
+- 娃娃菜国内价格：$1.67/kg
+- 水果黄瓜：$4.5/kg
+
+已记录单个价格但未买：
+- 黄瓜：$2/kg
+- 上海青国内价格：$2.66/kg
+- 甜玉米：$2.18~$3.7/kg
+
+未记录价格：
+- 羽衣甘蓝国内价格：$7.58/kg
+- 苦菊国内价格：$6.59/kg
+- 生菜国内价格：$1.96/kg
 
 ## 肉蛋
 
@@ -118,7 +135,7 @@ IGA买的菜虽然便宜但是质量经常不好。不要在IGA买：西兰花�
 | Woolworths Simply Chicken Wing Nibble Honey Soy | 蜜汁鸡翅 | $9/kg | 没买，略贵 |
 | Woolworths RSPCA CknDrumpsticks Small Pk | 鸡腿 | 忘记了 | 略贵，鸡腿最低价$4/kg |
 | Woolworths RSPCA CknThigh Cutlt Skn on | 除了鸡腿以外的带皮肉 | 忘记了 | 比鸡腿贵，不如买鸡腿 |
-| Woolworths RSPCA Whole Plain Chicken | 整鸡 | $4.5/kg | 一只约$10，不错 |
+| Woolworths RSPCA Whole Plain Chicken | 整鸡 | $4.5/kg，打折$4/kg | 一只约$10，不错 |
 | KRoo Kangaroo SizzleSteak | 袋鼠肉扒 | 打折$9/400g | 一盒8片，还行，性价比不如牛肉 |
 | KB LEMON AND PEPPE | 裹粉鱿鱼块 | 五折$5.25/360g | 不错 |
 | KB's NATURAL SQUID R | 鱿鱼圈 | $15/1kg | 不错 |
@@ -129,14 +146,21 @@ IGA买的菜虽然便宜但是质量经常不好。不要在IGA买：西兰花�
 | COLES HOT ROAST CHICKEN | 烤整鸡 | $12/each | 还行，略贵 |
 | Thomson's Deli Cooking Bacon | 培根 | $9.5/kg | 还行，特别咸 |
 | LAMB LEG ROAST | coles/wws羊腿 | $8/kg | 不错 |
-| DROVERS BEEF RUMP | 牛扒 | $6/230g | coles，还行 |
+| DROVERS BEEF RUMP | 臀肉牛扒 | $6/230g | coles，还行 |
 |  |  |  |  |
 
 Aldi的鸡蛋比coles和wws的便宜（如果没遇上打折）。
 
 Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量很大
 
-听说Aldi的鱿鱼圈更便宜
+听说Aldi的鱿鱼圈更便宜。
+
+肉类推荐：
+- $11/1kg的coles的碎牛肉
+- $4/kg的鸡腿
+- 【偶尔奢侈】$6的牛扒（DROVERS BEEF RUMP）
+- 【聚餐专用】$4.5/kg的整鸡
+- 【聚餐专用】$8/kg的羊腿
 
 ## 饮料
 
@@ -150,7 +174,7 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 | Woolworths Multivitamin Juice | 混合果汁 | $2.8/2L | 还行 |
 | Woolworths Apple Blackcurrant Juice | 苹果黑加仑果汁 | $2.8/2L | 还行，酸了点 |
 | Woolworths Apple Juice | 苹果果汁 | $2.8/2L | 一般 |
-| Scheweppes LEMON LIME & BITTERS | 汽水 | 五折$1.4/1.1L | **还没喝** |
+| Scheweppes LEMON LIME & BITTERS | 汽水 | 五折$1.4/1.1L | 还行 |
 | Coles Strawberry Yoghurt | 草莓酸奶 | $4/1kg | 还行 |
 | KIRKS MIXERS CLUB SODA WATER | 苏打水，混合用 | $8.2/6x250mL | **还没喝** |
 | Yougrt Nature 99% Fat Free | Aldi无糖酸奶 | $3.99/kg | 好酸，不好吃 |
@@ -159,6 +183,11 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 
 国内酸奶折算价格$4/kg
 
+饮料推荐：
+- $4.5/3L的牛奶
+- $2.8/2L的果汁
+- $4/kg的水果牛奶
+- $1.4/1.1L的打折汽水
 
 ## 调味料
 
@@ -189,6 +218,8 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 | Heinz Ketchup Tomato Sauce | 番茄酱 | $4/500mL |  |
 |  |  |  |  |
 
+Aldi的调味料好像便宜点。
+
 ## 薯片
 
 |商品|描述|价格|评价|
@@ -217,9 +248,9 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 | Infuzions Veggie Straws Sour Cream & Herb | 薯条 | $4.3/90g | 太贵了，一般 |
 |  |  |  |  |
 
-薯片性价比：SMITHS 380g > Sprinters > THINS > SMITHS > Kettle
+薯片性价比：五折SMITHS 380g > Sprinters > 五折THINS > 五折SMITHS > Kettle
 
-推荐：价格低于$1.37/100g可以买（按国内乐事薯片¥8.725/135g的价格换算）
+薯片购买推荐：价格低于$1.37/100g的都可以买（按国内乐事薯片¥8.725/135g的价格换算）。五折Thins（$2.35/175g）可以买，五折Smith's（$2.4/170g）勉强可以。
 
 ## 甜食
 
@@ -240,6 +271,14 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 | Cadbury Favourites Party Pack | 巧克力 | 活动价$11/520g | 不错，但是略贵 |
 | Haagen Dazs | 哈根达斯 | $13.5/457mL | 没买，略贵 |
 |  |  |  |  |
+
+购买推荐：
+- 五折$2/220g的软糖
+- 五折$3/200g的健达巧克力
+- 五折$2.5/180g的Cadbury巧克力
+- 五折$6.75/457mL的哈根达斯
+
+哈根达斯国内价格：$21.6/473mL $4.3/100mL
 
 ## 其它零食
 
