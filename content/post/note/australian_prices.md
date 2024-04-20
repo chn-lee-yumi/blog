@@ -39,22 +39,23 @@ tags:
 
 ## 主食
 
-|商品|描述|价格|评价|
-|---|---|---|---|
-| COLES PASTA | coles最便宜的意面 | $0.9/500g | 除了螺旋形的，其它都可以 |
-| WW Pasta Shell Large | Woolworths的意面 | $1/500g | 贝壳状只有wws有，吃起来跟coles的没啥区别 |
-| COLES LNG GRAIN RICE | 长白米 | $1.4/1kg，升价后$1.8/kg， WWS $8.50/5kg | 偏硬，不粘，适合炒饭 |
-| Woolworths Brown Rice Grain | 棕米 | $2.5/1kg | 需要煮半小时才能煮开，口感还行 |
-| TIP TOP MUFFINS | 松包 | $3/6个 | 不好吃 |
-| SAN REMO LA PASTA | 芝士意面配粉 | $1.4/80g | 还行，可能加奶更好吃，性价比不高 |
-| B/EYE HASH BROWNS | 薯饼 | $5.3/800g | 一般 |
-| McCain Superfries Crinkle Cut | 薯条 | $4.8/900g | 还行 |
-| McCain Hash Browns Shredded | 薯饼 | $5.8/750g | 比正常薯饼窄，还行 |
-| SEASONS PRIDE Crinkle Cut Chips / French Fries | 薯条 | $3.59/kg | Aldi，没买 |
-| SEASONS PRIDE Steak Cut Chips | 薯片？ | $2.99/750g | Aldi，没买 |
-| IBUMIE Instant Noodle | 纯方便面，波浪面，一袋10块 | $4.1/650g | 还可以，就是贵 |
-| Jinmailang Egg Noodle | 今麦郎鸡蛋面 | $3.1/kg | 还行 |
-|  |  |  |  |
+| 商品                                             | 描述             | 价格                                 | 评价                       |
+|------------------------------------------------|----------------|------------------------------------|--------------------------|
+| COLES PASTA                                    | coles最便宜的意面    | $0.9/500g                          | 除了螺旋形的，其它都可以             |
+| WW Pasta Shell Large                           | Woolworths的意面  | $1/500g                            | 贝壳状只有wws有，吃起来跟coles的没啥区别 |
+| COLES LNG GRAIN RICE                           | 长白米            | $1.4/1kg，升价后$1.8/kg， WWS $8.50/5kg | 偏硬，不粘，适合炒饭               |
+| Woolworths Brown Rice Grain                    | 棕米             | $2.5/1kg                           | 需要煮半小时才能煮开，口感还行          |
+| TIP TOP MUFFINS                                | 松包             | $3/6个                              | 不好吃                      |
+| SAN REMO LA PASTA                              | 芝士意面配粉         | $1.4/80g                           | 还行，可能加奶更好吃，性价比不高         |
+| B/EYE HASH BROWNS                              | 薯饼             | $5.3/800g                          | 一般                       |
+| McCain Superfries Crinkle Cut                  | 薯条             | $4.8/900g                          | 还行                       |
+| McCain Hash Browns Shredded                    | 薯饼             | $5.8/750g                          | 比正常薯饼窄，还行                |
+| SEASONS PRIDE Crinkle Cut Chips / French Fries | 薯条             | $3.59/kg                           | Aldi，没买                  |
+| SEASONS PRIDE Hash Browns                      | 薯饼             | $4.99/kg                           | Aldi，没买                  |
+| SEASONS PRIDE Steak Cut Chips                  | 薯片？            | $2.99/750g                         | Aldi，没买                  |
+| IBUMIE Instant Noodle                          | 纯方便面，波浪面，一袋10块 | $4.1/650g                          | 还可以，就是贵                  |
+| Jinmailang Egg Noodle                          | 今麦郎鸡蛋面         | $3.1/kg                            | 还行                       |
+|                                                |                |                                    |                          |
 
 主食推荐最便宜的米（$8.5/5kg）和最便宜的意面（$0.9/500g）。
 
@@ -75,10 +76,11 @@ tags:
 | Coles Baby Cucumbers          | 水果黄瓜     | $3/250g                                       | 比国内贵                       |
 | Chinese Cabbage Wombok Baby   | 娃娃菜      | 两个$3 ~1586g                                   | IGA买的，应该是最便宜的娃娃菜了，但还是比国内贵  |
 | Telegraph Cucumber            | 黄瓜       | $1.99/each                                    | IGA，还没买                    |
-| Baby Buk Choy                 | 上海青      | $1.5/bunch                                    | IGA，还没买                    |
+| Baby Buk Choy                 | 上海青      | $1.5/bunch $5/4bunch                          | IGA，还没买                    |
 | Sweet Corn                    | 甜玉米      | $0.8/each $3/4个                               | coles，还没买                  |
 | Rockmelon                     | 哈蜜瓜      | $1.9/半个 $2.9/个(约2316g)                        | coles，很甜，不错                |
 | Honeydew Melon                | 像大号香瓜的蜜瓜 | $1.9/半个 $2.9/个(约1792g)                        | coles，超级甜，不错               |
+| Mushroom Cups Loose           | 口蘑       | $10.9/kg                                      | coles，好贵，没买                |
 
 IGA买的菜虽然便宜但是质量经常不好。
 
@@ -88,6 +90,7 @@ IGA买的菜虽然便宜但是质量经常不好。
 - 包菜：<=$4/each，最好<=$3/each
 - 蓝莓：<=$2.5/170g
 - 草莓：<=$2.5/250g
+- 红洋葱：最好<=$5/20kg
 
 已记录重量和价格：
 - 胡萝卜国内价格：$2/kg
@@ -102,13 +105,14 @@ IGA买的菜虽然便宜但是质量经常不好。
 - 娃娃菜国内价格：$1.67/kg
 - 水果黄瓜：$4.5/kg
 - 口蘑：$5/kg
+- 红洋葱国内价格：$1.46/kg
 
-已记录单个价格但未买：
+已记录单个/一把价格但未买（需要买回来称重才知道划不划算）：
 - 黄瓜：$2/kg
 - 上海青国内价格：$2.66/kg
 - 甜玉米：$2.18~$3.7/kg
 
-未记录价格：
+未记录重量和价格：
 - 羽衣甘蓝国内价格：$7.58/kg
 - 苦菊国内价格：$6.59/kg
 - 生菜国内价格：$1.96/kg
@@ -143,7 +147,7 @@ IGA买的菜虽然便宜但是质量经常不好。
 | KRoo Kangaroo SizzleSteak                       | 袋鼠肉扒            | 打折$9/400g                | 一盒8片，还行，性价比不如牛肉                  |
 | KB LEMON AND PEPPE                              | 裹粉鱿鱼块           | 五折$5.25/360g             | 不错                               |
 | KB's NATURAL SQUID R                            | 鱿鱼圈             | $15/1kg                  | 还行，这边鱿鱼圈都没嚼劲的                    |
-| OCEAN ROYALE SQUID RINGS                        | 鱿鱼圈             | $5.99/500g               | Aldi，没买，下次买这个，便宜                 |
+| OCEAN ROYALE SQUID RINGS                        | 鱿鱼圈             | $5.99/500g 特价$4.99/500g  | Aldi，没买，下次买这个，便宜                 |
 | COLES BRISKET                                   | 牛胸肉             | $15/kg                   | 卤了薄切，一般                          |
 | COLES BEEF SHIN （Gravy Beef）                    | 牛腱              | $17/kg                   | 还行                               |
 | LUV A AUCK FROZEN                               | 整鸭              | $15/2.1kg                | 不如买整鸡，感觉性价比不如鸡                   |
@@ -194,7 +198,7 @@ Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量�
 | Yougrt Nature 99% Fat Free                     | Aldi无糖酸奶  | $3.99/kg                | 好酸，不好吃                               |
 | COLES DAIRY YOGHURT                            | Coles水果酸奶 | $4/kg                   | 不错                                   |
 | YOPLAIT MANGO YOGHURT                          | 芒果酸奶      | $4.9/kg                 | 不错，但是性价比不如Coles                      |
-|                                                |           |                         |                                      |
+| CHAMP Chocolate Flavoured Milk                 | 巧克力奶      | $3.99/2L                | Aldi，好喝但略贵                           |
 
 国内酸奶折算价格$4/kg
 
@@ -267,7 +271,7 @@ Aldi的调味料好像便宜点。
 | Infuzions Veggie Straws Sour Cream & Herb              | 薯条      | $4.3/90g     | 太贵了，一般          |
 | Coles Potato Chips Chicken                             | 薯片      | $2.3/175g    | 还行              |
 | Coles Potato Chips Salt                                | 薯片      | $2.3/175g    | **盐醋味，还没吃**     |
-|                                                        |         |              |                 |
+| BLACKSTONE Potato Chips                                | 薯片      | $2.99/200g   | Aldi，没买         |
 
 薯片性价比：五折SMITHS 380g > Sprinters > Coles > 五折THINS > 五折SMITHS > Kettle
 
@@ -292,7 +296,7 @@ Aldi的调味料好像便宜点。
 | Cadbury Freddo Strawberry       | 草莓味夹心巧克力      | 五折$2.5/180g              | 不错                       |
 | Cadbury Favourites Party Pack   | 巧克力           | 活动价$11/520g              | 不错，但是略贵                  |
 | Haagen Dazs                     | 哈根达斯          | $13.5/457mL，六折8.1，五折6.75 | 还可以，不知道贵在哪               |
-|                                 |               |                          |                          |
+| MONARC Sliver Scoop             | 雪糕            | $5.99/kg                 | Aldi，没买                  |
 
 购买推荐：
 - 五折$2/220g的软糖
