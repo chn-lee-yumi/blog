@@ -2,7 +2,7 @@
 title: "Setonix 的 PyTorch 环境的 ROCm 报错排查"
 description: "Setonix is a hybrid CPU-GPU supercomputer housed at Pawsey Centre in Western Australia. 本文是关于 Setonix 的 PyTorch 环境的 ROCm 报错排查记录。"
 date: 2024-07-12T19:55:00+10:00
-lastmod: 2024-07-12T19:55:00+10:00
+lastmod: 2024-07-12T21:55:00+10:00
 categories:
   - 学习
 tags:
@@ -14,9 +14,7 @@ tags:
 
 Setonix 是南半球最强大的超级计算机，也是我用过的最不稳定的超级计算机。平均一个月炸一次，例如升级固件升炸了，Lustre文件系统炸了等等……
 
-因为是用 AMD Instinct MI250X GPU，所以PyTorch后端用的是ROCm。这个环境有就各种奇奇怪怪的问题。128 GB 显存，屌是屌，但是各种坑。
-
-要不是凭着我三年SRE经验，怕是也handle不了这些奇奇怪怪的问题……
+因为是用 AMD Instinct MI250X GPU，所以 PyTorch 后端用的是 ROCm。这个环境有就各种奇奇怪怪的问题。
 
 **建议炼丹远离A卡。A卡炼丹，毁我青春！**
 
