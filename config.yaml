@@ -119,7 +119,7 @@ minify:
 # name       : Menu name
 # pageref    : Link of webiste and not appeare same time with url
 # url        : Exteneral link out of website and start with http or https
-# pre        : Icon of menu
+# pre        : Icon of menu, from https://fontawesome.com/icons
 # weight     : Order number and smaller is top
 # -------------------------------------
 menus:
@@ -139,6 +139,11 @@ menus:
       pageref: /archives
       pre: archive
       weight: 3
+    - identifier: tool
+      name: 工具
+      pageref: https://tool.gcc.ac.cn/
+      pre: toolbox
+      weight: 9
 
 #-----------------------------------------
 # Hugo NexT 主题参数配置
