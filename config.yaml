@@ -141,7 +141,7 @@ menus:
       weight: 3
     - identifier: tool
       name: 工具
-      pageref: https://tool.gcc.ac.cn/
+      url: https://tool.gcc.ac.cn/
       pre: toolbox
       weight: 9
 
