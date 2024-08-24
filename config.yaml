@@ -725,7 +725,7 @@ params:
   # 百度站点验证
   # Baidu Webmaster tools verification.
   # See: https://ziyuan.baidu.com/site
-  baiduSiteVerification: #<verify_code>
+  baiduSiteVerification: codeva-HKMCeAIKA0
 
 
   # ---------------------------------------------------------------
