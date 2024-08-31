@@ -2,7 +2,7 @@
 title: "澳大利亚物价水平"
 description: "澳大利亚物价水平"
 date: 2024-01-12T15:53:00+11:00
-lastmod: 2024-02-02T12:46:00+11:00
+lastmod: 2024-08-031T13:51:00+10:00
 categories:
   - 备忘录
 tags:
@@ -43,7 +43,7 @@ tags:
 |------------------------------------------------|----------------|------------------------------------|--------------------------|
 | COLES PASTA                                    | coles最便宜的意面    | $0.9/500g                          | 除了螺旋形的，其它都可以             |
 | WW Pasta Shell Large                           | Woolworths的意面  | $1/500g                            | 贝壳状只有wws有，吃起来跟coles的没啥区别 |
-| COLES LNG GRAIN RICE                           | 长白米            | $1.4/1kg，升价后$1.8/kg， WWS $8.50/5kg | 偏硬，不粘，适合炒饭               |
+| COLES LNG GRAIN RICE                           | 长白米            | $1.4/1kg，升价后$1.8/kg， WWS $8.50/5kg | 需要多加水煮，否则偏硬              |
 | Woolworths Brown Rice Grain                    | 棕米             | $2.5/1kg                           | 需要煮半小时才能煮开，口感还行          |
 | TIP TOP MUFFINS                                | 松包             | $3/6个                              | 不好吃                      |
 | SAN REMO LA PASTA                              | 芝士意面配粉         | $1.4/80g                           | 还行，可能加奶更好吃，性价比不高         |
@@ -119,48 +119,50 @@ IGA买的菜虽然便宜但是质量经常不好。
 
 ## 肉蛋
 
-| 商品                                              | 描述              | 价格                       | 评价                               |
-|-------------------------------------------------|-----------------|--------------------------|----------------------------------|
-| LODGE FARM Cage Eggs                            | Aldi鸡蛋          | $4.29/700g               | 性价比最高                            |
-| Eggs Barn                                       | Aldi鸡蛋          | $4.39/700g 12个           | 性价比高                             |
-| EggsCage                                        | Aldi鸡蛋          | $4.69/700g 12个           | 和上面一样都是aldi最便宜的鸡蛋，过段时间去买的，升价了？？？ |
-| COLS SMALON PORTIONS                            | 三文鱼             | $17.5/460g               | 还行，不过还有几根大鱼刺，吃的时候要注意下            |
-| SALMON SKIN ON                                  | 带皮三文鱼           | 特价$38/kg                 | 还行，没去鱼鳞和鱼刺，需要注意下                 |
-| REGULAR PORK MINCE                              | 猪肉碎             | $5.5/500g                | 味道一般，没有澳洲猪骚味，不如加一点点钱买牛肉碎         |
-| BEEF 3 STAR REGULAR                             | 牛肉碎             | $12/1kg 打折$11/1kg        | 像肉饼，牛油很香，性价比极高(Coles的比WWS的好吃)    |
-| WW Beef Stir Fry Heart Smart                    | 切丁牛肉            | $12/500g                 | 口感比较老，不好吃，不如$12/1kg的牛肉碎          |
-| BEEF DICED 500GRAM                              | 切丁牛肉            | $11/500g                 | coles买的，跟wws感觉差不多，性价比不如牛肉碎       |
-| COLES SCOTCH FILLET                             | 菲力牛扒            | $7.5/170g                | 一般，也可能是我不会做                      |
-| COLES BEEF FILLET                               | 肉眼牛扒            | $14/300g                 | 不好吃，也可能是我不会做                     |
-| Diced Beef Casserole                            | 需要3小时慢炖的牛肉      | $11/500g                 | 一般                               |
-| BEEF BLADE ROAS                                 | 大块牛肉            | $15/kg                   | 低温慢煮后煎牛排不错                       |
-| BEEF CORNED SILVERSI                            | 腌过的大块牛肉         | $10/kg                   | 太咸了                              |
-| BERTOCCHI YEARLING C                            | 牛肉火腿            | 价格忘了                     | 跟猪肉火腿感觉差不多，咸了点                   |
-| COLES BEEF SAUSAGE                              | 牛肉肠             | $12/550g                 | 还行                               |
-| THOMSON'S DELI BACON                            | 培根              | $9.5/1kg                 | 可以                               |
-| Woolworths RSPCA Chicken Drumsticks Bulk        | 鸡腿              | $4.5/kg 打折$4/kg 袋装$8/2kg | 不错                               |
-| Woolworths RSPCA Chicken Wings Bulk             | 鸡翅（鸡中翅和鸡翅根连一起的） | $6/kg                    | 不错                               |
-| Woolworths Simply Chicken Wing Nibble Honey Soy | 蜜汁鸡翅            | $9/kg                    | 没买，略贵                            |
-| Woolworths RSPCA CknDrumpsticks Small Pk        | 鸡腿              | 忘记了                      | 略贵，鸡腿最低价$4/kg                    |
-| Woolworths RSPCA CknThigh Cutlt Skn on          | 除了鸡腿以外的带皮肉      | 忘记了                      | 比鸡腿贵，不如买鸡腿                       |
-| Woolworths RSPCA Whole Plain Chicken            | 整鸡              | $4.5/kg，打折$4/kg          | 一只约$10，不错                        |
-| KRoo Kangaroo SizzleSteak                       | 袋鼠肉扒            | 打折$9/400g                | 一盒8片，还行，性价比不如牛肉                  |
-| KB LEMON AND PEPPE                              | 裹粉鱿鱼块           | 五折$5.25/360g             | 不错                               |
-| KB's NATURAL SQUID R                            | 鱿鱼圈             | $15/1kg                  | 还行，这边鱿鱼圈都没嚼劲的                    |
-| OCEAN ROYALE SQUID RINGS                        | 鱿鱼圈             | $5.99/500g 特价$4.99/500g  | Aldi，没买，下次买这个，便宜                 |
-| COLES BRISKET                                   | 牛胸肉             | $15/kg                   | 卤了薄切，一般                          |
-| COLES BEEF SHIN （Gravy Beef）                    | 牛腱              | $17/kg                   | 还行                               |
-| LUV A AUCK FROZEN                               | 整鸭              | $15/2.1kg                | 不如买整鸡，感觉性价比不如鸡                   |
-| COLES HOT ROAST CHICKEN                         | 烤整鸡             | $12/each                 | 还行，略贵                            |
-| Thomson's Deli Cooking Bacon                    | 培根              | $9.5/kg                  | 还行，特别咸                           |
-| LAMB LEG ROAST                                  | coles/wws羊腿     | $8/kg                    | 不错                               |
-| DROVERS BEEF RUMP                               | 臀肉牛扒            | $6/230g                  | coles，还行                         |
-| LAMB SHANKS                                     | 羊小腿             | $9.5/kg                  | **还没吃**                          |
-|                                                 |                 |                          |                                  |
+| 商品                                              | 描述              | 价格                               | 评价                               |
+|-------------------------------------------------|-----------------|----------------------------------|----------------------------------|
+| LODGE FARM Cage Eggs                            | Aldi鸡蛋          | $4.29/700g                       | 性价比最高                            |
+| Eggs Barn                                       | Aldi鸡蛋          | $4.39/700g 12个                   | 性价比高                             |
+| EggsCage                                        | Aldi鸡蛋          | $4.69/700g 12个                   | 和上面一样都是aldi最便宜的鸡蛋，过段时间去买的，升价了？？？ |
+| COLS SMALON PORTIONS                            | 三文鱼             | $17.5/460g                       | 还行，不过还有几根大鱼刺，吃的时候要注意下            |
+| SALMON SKIN ON                                  | 带皮三文鱼           | 特价$38/kg                         | 还行，没去鱼鳞和鱼刺，需要注意下                 |
+| REGULAR PORK MINCE                              | 猪肉碎             | $5.5/500g                        | 味道一般，没有澳洲猪骚味，不如加一点点钱买牛肉碎         |
+| BEEF 3 STAR REGULAR                             | 牛肉碎             | $12/1kg 打折$11/1kg                | 像肉饼，牛油很香，性价比极高(Coles的比WWS的好吃)    |
+| WW Beef Stir Fry Heart Smart                    | 切丁牛肉            | $12/500g                         | 口感比较老，不好吃，不如$12/1kg的牛肉碎          |
+| BEEF DICED 500GRAM                              | 切丁牛肉            | $11/500g                         | coles买的，跟wws感觉差不多，性价比不如牛肉碎       |
+| COLES SCOTCH FILLET                             | 菲力牛扒            | $7.5/170g                        | 一般，也可能是我不会做                      |
+| COLES BEEF FILLET                               | 肉眼牛扒            | $14/300g                         | 不好吃，也可能是我不会做                     |
+| Diced Beef Casserole                            | 需要3小时慢炖的牛肉      | $11/500g                         | 一般                               |
+| BEEF BLADE ROAS                                 | 大块牛肉            | $15/kg                           | 低温慢煮后煎牛排不错                       |
+| BEEF CORNED SILVERSI                            | 腌过的大块牛肉         | $10/kg                           | 太咸了                              |
+| BERTOCCHI YEARLING C                            | 牛肉火腿            | 价格忘了                             | 跟猪肉火腿感觉差不多，咸了点                   |
+| COLES BEEF SAUSAGE                              | 牛肉肠             | $12/550g                         | 还行                               |
+| THOMSON'S DELI BACON                            | 培根              | $9.5/1kg                         | 可以                               |
+| Woolworths RSPCA Chicken Drumsticks Bulk        | 鸡腿              | $4.5/kg 打折$4/kg 袋装$8/2kg 打折两袋$15 | 不错                               |
+| Woolworths RSPCA Chicken Wings Bulk             | 鸡翅（鸡中翅和鸡翅根连一起的） | $6/kg                            | 不错                               |
+| Woolworths Simply Chicken Wing Nibble Honey Soy | 蜜汁鸡翅            | $9/kg                            | 没买，略贵                            |
+| Woolworths RSPCA CknDrumpsticks Small Pk        | 鸡腿              | 忘记了                              | 略贵，鸡腿最低价$4/kg                    |
+| Woolworths RSPCA CknThigh Cutlt Skn on          | 除了鸡腿以外的带皮肉      | 忘记了                              | 比鸡腿贵，不如买鸡腿                       |
+| Woolworths RSPCA Whole Plain Chicken            | 整鸡              | $4.5/kg，打折$4/kg                  | 一只约$10，不错                        |
+| KRoo Kangaroo SizzleSteak                       | 袋鼠肉扒            | 打折$9/400g                        | 一盒8片，还行，性价比不如牛肉                  |
+| KB LEMON AND PEPPE                              | 裹粉鱿鱼块           | 五折$5.25/360g                     | 不错                               |
+| KB's NATURAL SQUID R                            | 鱿鱼圈（美洲大赤鱿）      | $15/1kg                          | 还行，这边鱿鱼圈都没嚼劲的                    |
+| OCEAN ROYALE SQUID RINGS                        | 鱿鱼圈             | $5.99/500g 特价$4.99/500g          | Aldi，没买，下次买这个，便宜                 |
+| COLES BRISKET                                   | 牛胸肉             | $15/kg                           | 卤了薄切，一般                          |
+| COLES BEEF SHIN （Gravy Beef）                    | 牛腱              | $17/kg                           | 还行                               |
+| LUV A AUCK FROZEN                               | 整鸭              | $15/2.1kg                        | 不如买整鸡，感觉性价比不如鸡                   |
+| COLES HOT ROAST CHICKEN                         | 烤整鸡             | $12/each                         | 还行，略贵                            |
+| Thomson's Deli Cooking Bacon                    | 培根              | $9.5/kg                          | 还行，特别咸                           |
+| LAMB LEG ROAST                                  | coles/wws羊腿     | $8/kg                            | 不错                               |
+| DROVERS BEEF RUMP                               | 臀肉牛扒            | $6/230g                          | coles，还行                         |
+| LAMB SHANKS                                     | 羊小腿             | $9.5/kg                          | 不错                               |
+| KB's Raw Prawn                                  | 虾仁（中南美白对虾）      | $29/kg                           | **半价可买，还没吃过**                    |
 
 Aldi的鸡蛋比coles和wws的便宜（如果没遇上打折）。
 
 Drovers Beef Mince Big Value Pack 碎牛肉更划算，$10.5/kg，但是分量很大。
+
+鸡腿实测肉占比约三分之二。
 
 国内参考价格：
 - 虾仁：$12.5、$13.2、$19.12/kg（这边如果低于$20/kg可以考虑买）。
@@ -270,7 +272,7 @@ Aldi的调味料好像便宜点。
 | Twisties Chicken                                       | 类似粟一烧   | $4/270g      | 还行，有部分硬颗粒，牙不好别吃 |
 | Infuzions Veggie Straws Sour Cream & Herb              | 薯条      | $4.3/90g     | 太贵了，一般          |
 | Coles Potato Chips Chicken                             | 薯片      | $2.3/175g    | 还行              |
-| Coles Potato Chips Salt                                | 薯片      | $2.3/175g    | **盐醋味，还没吃**     |
+| Coles Potato Chips Salt                                | 薯片      | $2.3/175g    | 盐醋味薯片，不好吃       |
 | BLACKSTONE Potato Chips                                | 薯片      | $2.99/200g   | Aldi，没买         |
 
 薯片性价比：五折SMITHS 380g > Sprinters > Coles > 五折THINS > 五折SMITHS > Kettle
