@@ -2,7 +2,7 @@
 title: "各个数据结构和算法的复杂度总结"
 description: "各个数据结构和算法的复杂度总结，包括选择排序、插入排序、归并排序、快速排序、堆排序、Tree Sort、堆、二叉搜索树、快速选择。"
 date: 2024-04-20T10:37:00+10:00
-date: 2024-06-07T14:07:00+10:00
+date: 2024-09-04T20:55:00+10:00
 categories:
   - 学习
 ---
@@ -16,12 +16,12 @@ categories:
 | 归并排序      | nlogn   | nlogn    | nlogn    | n      | 是    | 不是   |
 | 快速排序      | n^2     | nlogn    | nlogn    | logn   | 不是   | 是    |
 | 堆排序       | nlogn   | nlogn    | nlogn    | 1      | 不是   | 是    |
-| Tree Sort | nlogn   | nlogn    | nlogn    | 1      | 不是   | 是    |
+| Tree Sort | n^2     | nlogn    | nlogn    | 1      | 不是   | 是    |
 
 - 快速排序空间复杂度的logn是递归过程的内存占用。
 - 快速排序是否稳定和是否原地取决于分区函数，一般实现是原地排序并且不稳定。
 - 堆排序建堆过程的时间复杂度是n。
-- Tree Sort 构建过程是nlogn，遍历是n。
+- Tree Sort 构建过程是nlogn，遍历是n。如果树极度不平衡，则退化成链表，时间变成n^2。
 
 # 数据结构
 
