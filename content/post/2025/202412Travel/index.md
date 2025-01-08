@@ -88,7 +88,7 @@ tags:
 
 觉得飞机里面这个位置拍照有点好看。
 
-<img src="IMG_6290.webp" width="60%" height="auto">
+<p><img src="IMG_6290.webp" width="60%" height="auto"></p>
 
 一下飞机就看到很大的雾，不知道是雾还是雾霾，不愧是雾都。
 
@@ -110,15 +110,15 @@ tags:
 
 这个楼梯别有一番美感。
 
-<img src="IMG_6301.webp" width="60%" height="auto">
+<p><img src="IMG_6301.webp" width="60%" height="auto"></p>
 
 白象居外面一个打卡拍照点。（图里面的是路人）
 
-<img src="IMG_6303.webp" width="60%" height="auto">
+<p><img src="IMG_6303.webp" width="60%" height="auto"></p>
 
 这个楼梯看着有点吓人，万一脚滑就直接滚下去了。
 
-<img src="IMG_6320.webp" width="60%" height="auto">
+<p><img src="IMG_6320.webp" width="60%" height="auto"></p>
 
 出了白象居后，我们走到了东水门长江大桥上面去拍湖广会馆。
 
@@ -126,7 +126,7 @@ tags:
 
 湖广会馆没进去，要钱，好像不是很值。
 
-<img src="IMG_6326.webp" width="60%" height="auto">
+<p><img src="IMG_6326.webp" width="60%" height="auto"></p>
 
 然后走到重庆十八梯，期间穿过白象街传统风貌区，其实是一个很荒芜的人造的民国风格的街道，旁边是楼盘，说白了就是楼盘配套……这里没有照片，没啥好看的。
 
