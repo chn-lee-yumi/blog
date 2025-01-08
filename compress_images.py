@@ -47,6 +47,7 @@ def compress_images(input_dir, output_dir):
 
 # 输入与输出文件夹
 input_folder = "content/post/2025/202412Travel"
-output_folder = input_folder + "_compressed"
+# output_folder = input_folder + "_compressed"
+output_folder = input_folder
 
 compress_images(input_folder, output_folder)
