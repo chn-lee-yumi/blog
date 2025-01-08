@@ -345,13 +345,13 @@ tags:
 
 ![IMG_6666.webp](IMG_6666.webp)
 
-箭竹海瀑布。我拍的是live照片，我转成了视频。
+箭竹海瀑布。下面是其中一小块，我拍的是live照片，我转成了视频。
 
-<video src="IMG_6685.webm" controls="controls" loop="loop" preload="auto"></video>
+<video src="IMG_6685.webm" controls="controls" loop="loop" preload="auto" width="60%" height="auto"></video>
 
 也是在箭竹海瀑布，这个植物结冰了很好看。
 
-![IMG_6692.webp](IMG_6692.webp)
+<p><img src="IMG_6692.webp" alt="IMG_6692.webp" width="60%" height="auto"></p>
 
 珍珠滩瀑布。
 
@@ -361,7 +361,7 @@ tags:
 
 ![IMG_6776.webp](IMG_6776.webp)
 
-五彩池。可以看到确实颜色渐变。
+五彩池。可以看到确实有颜色渐变。
 
 ![IMG_6777.webp](IMG_6777.webp)
 
