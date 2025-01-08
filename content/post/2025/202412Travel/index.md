@@ -88,7 +88,7 @@ tags:
 
 觉得飞机里面这个位置拍照有点好看。
 
-![IMG_6290.webp](IMG_6290.webp)
+<img src="IMG_6290.webp" width="50%" height="auto">
 
 一下飞机就看到很大的雾，不知道是雾还是雾霾，不愧是雾都。
 
