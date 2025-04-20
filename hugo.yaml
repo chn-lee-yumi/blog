@@ -22,7 +22,7 @@ theme: hugo-theme-next
 # 站点默认的语言和代码
 # Default laguage & code for website
 defaultContentLanguage: zh-cn
-languageCode: zh-cn
+languageCode: zh-CN
 # 是否包含中文，日语，韩文
 # Whether contains Chinese, Japanese and Korean
 hasCJKLanguage: true
@@ -897,7 +897,7 @@ params:
     # Aavilable value: top | bottom
     # 讨论区帖子标题，可选值： pathname | url | title | og:title | 自定义
     # Available values: pathname | url | title | og:title | custom
-    mapping: pathname
+    mapping: title
     # 评论输入框的位置，可选值： top | bottom
     # Aavilable value: top | bottom
     inputPosition: top
