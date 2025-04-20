@@ -1,13 +1,13 @@
 # ===============================================================
 # 根据如下的配置说明完善自己的站点配置，建议另外拷贝进行调整避免冲突
-# Improve your site configuration according to the following 
-# configuration instructions. It is recommended to make 
+# Improve your site configuration according to the following
+# configuration instructions. It is recommended to make
 # additional copies for adjustment to avoid conflicts
 # ===============================================================
 
 # ---------------------------------------------------------------
 # Hugo 引擎的基础配置
-# Basic configure for Hugo engine 
+# Basic configure for Hugo engine
 # ---------------------------------------------------------------
 
 # 站点域名，比如： https://hugo-next.eu.org
@@ -28,7 +28,8 @@ languageCode: zh-cn
 hasCJKLanguage: true
 # 每页显示文章数量
 # Display items per page
-paginate: 10
+pagination:
+  pagerSize: 10
 # 开启支持表情符号
 # Enable Emoji support
 enableEmoji: true
@@ -486,6 +487,12 @@ params:
       # 页面访问统计插件，支持busuanzi, waline, leancloud
       # Page views counter plugin, support: busuanzi, waline, leancloud
       plugin: busuanzi
+    # 是否开启过期提示
+    # Expired tip
+    expired: false
+    # 是否开启摘要显示
+    # Enable summary
+    summary: true
 
   # 文章底部的设置
   # Post footer settings
@@ -913,12 +920,19 @@ params:
     id:     # <app_id>
     color:  "#fc6423"
 
-  # AddThis文章分享功能
-  # 更多信息及配置请参考：https://www.addthis.com
-  # AddThis Share.
-  # See: https://www.addthis.com
-  addThisId: #<Your addthis>
-
+  # 文章分享功能
+  share:
+    enable: true
+    # 更多信息与配置，请参考：https://sharethis.com
+    # For more information and configuration, please refer to:https://sharethis.com
+    # sharethis:
+    #   id: #<sharethis_id>
+    # 简单的在线分享，没有统计数据功能，更多信息可参考：https://www.addtoany.com/
+    # Simple online sharing without statistical data function.
+    # For more information, please refer to: https://www.addtoany.com/
+    addtoany:
+      locale: zh-CN
+      num_services: 8
 
   # ---------------------------------------------------------------
   # 站点统计功能
