@@ -29,7 +29,7 @@ hasCJKLanguage: true
 # 每页显示文章数量
 # Display items per page
 pagination:
-  pagerSize: 10
+  pagerSize: 5
 # 开启支持表情符号
 # Enable Emoji support
 enableEmoji: true
@@ -477,7 +477,7 @@ params:
     readTime: true
     # 是否开启评论数显示
     comments:
-      enable: true
+      enable: false
       # 评论统计插件，暂只支持waline
       # Comment counter plugin, only support waline
       plugin: waline
@@ -793,7 +793,7 @@ params:
   comments:
     # 开启评论组件
     # If true, will show comment component in post end.
-    enable: false
+    enable: true
     # 设置默认使用的评论插件
     # 可选值：livere | waline | utterances | artalk | giscus
     # Choose a comment system to be displayed by default.
@@ -811,10 +811,10 @@ params:
     # `name` 参数名可选值：livere | waline | utterances | artalk | giscus
     # Modify texts or order for any naves, here are some examples.
     nav:
-      - name: waline
-        title: Waline
-        color: "#27ae60"
-        weight: 2
+#      - name: waline
+#        title: Waline
+#        color: "#27ae60"
+#        weight: 2
       - name: giscus
         title: Giscus
         color: "#886ce4"
@@ -824,17 +824,17 @@ params:
   # 更多配置信息请参考：https://waline.js.org/
   # Waline comments system
   # More info seee: https://waline.js.org/
-  waline:
-    placeholder: "请文明发言哟 ヾ(≧▽≦*)o"
-    sofa: "快来发表你的意见吧 (≧∀≦)ゞ"
-    emoji: false
-    imgUploader: false
-    wordLimit: 200
-    requiredMeta: ['nick', 'mail']
-    reaction: true
-    reactionText: [ '点赞', '踩一下', '得意', '不屑', '尴尬', '睡觉']
-    reactionTitle: "你认为这篇文章怎么样？"
-    serverURL: #<your waline server url>
+#  waline:
+#    placeholder: "请文明发言哟 ヾ(≧▽≦*)o"
+#    sofa: "快来发表你的意见吧 (≧∀≦)ゞ"
+#    emoji: false
+#    imgUploader: false
+#    wordLimit: 200
+#    requiredMeta: ['nick', 'mail']
+#    reaction: true
+#    reactionText: [ '点赞', '踩一下', '得意', '不屑', '尴尬', '睡觉']
+#    reactionTitle: "你认为这篇文章怎么样？"
+#    serverURL: #<your waline server url>
 
   # Artalk 评论插件
   # 更多配置信息请参考：https://artalk.js.org
@@ -877,19 +877,19 @@ params:
   giscus:
     # Github 仓库地址，格式：用户名/仓库名称
     # Github repository owner and name
-    repo: username/repo-name
+    repo: chn-lee-yumi/blog-comment
     # Giscus 生成的仓库 Id
     # Generate repository Id from Giscus
-    repoId: #<repo-id>
+    repoId: R_kgDOOcmiHg
     # 讨论区的分类名称
     # Github discussions category
     category: Comments
     # 讨论区分类 ID
     # Generate category Id from Giscus
-    categoryId: #<category-id>
+    categoryId: DIC_kwDOOcmiHs4CpR83
     # 帖子上的反应将会显示在评论前
     # The reactions for post will be shown before the comments
-    reactions: false
+    reactions: true
     # 将元数据定期被发送到父页面（被嵌入的页面或控制台，用于调试）
     # Metadata will be sent periodically to the parent window
     emit: false
@@ -897,7 +897,7 @@ params:
     # Aavilable value: top | bottom
     # 讨论区帖子标题，可选值： pathname | url | title | og:title | 自定义
     # Available values: pathname | url | title | og:title | custom
-    mapping: title
+    mapping: pathname
     # 评论输入框的位置，可选值： top | bottom
     # Aavilable value: top | bottom
     inputPosition: top
