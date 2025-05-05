@@ -7,6 +7,7 @@ categories:
   - 学习
 tags:
   - Puzzle
+math: mathjax
 ---
 
 ## 题目
