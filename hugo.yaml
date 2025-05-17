@@ -142,7 +142,7 @@ menus:
       weight: 3
     - identifier: tool
       name: 工具
-      url: https://tool.gcc.ac.cn/
+      url: https://tool.gcc.ac.cn/index_zh.html
       pre: toolbox
       weight: 9
 
