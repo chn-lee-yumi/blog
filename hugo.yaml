@@ -46,7 +46,7 @@ markup:
     codeFences: true
     guessSyntax: true
     lineNos: true
-    lineNumbersInTable: true
+    lineNumbersInTable: false
     noClasses: false
   tableOfContents:
     # 开始/结束标题级别：1-6 (建议从2开始)
