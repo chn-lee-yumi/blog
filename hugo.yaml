@@ -45,9 +45,9 @@ markup:
     anchorLineNos: true
     codeFences: true
     guessSyntax: true
-    lineNos: true
+    lineNos: false
     lineNumbersInTable: false
-    noClasses: false
+    noClasses: true
   tableOfContents:
     # 开始/结束标题级别：1-6 (建议从2开始)
     # Heading title level of start or end: 1-6
@@ -1142,7 +1142,7 @@ params:
     # The default CDN provider of third-party plugins.
     # Available values: local | unpkg | cdnjs| qiniu | bootcdn | custom
     # Dependencies for `plugins: local`: https://github.com/next-theme/plugins
-    plugins: local
+    plugins: unpkg
     # TODO
     # Custom CDN URL
     # For example:
