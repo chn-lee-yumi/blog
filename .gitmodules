@@ -9,7 +9,7 @@
 	url = https://github.com/JingWangTW/dark-theme-editor.git
 [submodule "themes/hugo-theme-next"]
 	path = themes/hugo-theme-next
-	url = https://github.com/hugo-next/hugo-theme-next.git
+	url = git@github.com:hugo-next/hugo-theme-next.git 
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack.git
