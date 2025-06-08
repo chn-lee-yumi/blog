@@ -47,7 +47,7 @@ markup:
     guessSyntax: true
     lineNos: false
     lineNumbersInTable: false
-    noClasses: true
+    noClasses: false
   tableOfContents:
     # 开始/结束标题级别：1-6 (建议从2开始)
     # Heading title level of start or end: 1-6
@@ -599,6 +599,9 @@ params:
     # 在代码块上添加拷贝按钮
     # Add copy button on codeblock
     copyBtn: true
+    # 代码块的默认显示行高
+    # Default max height of codeblock.
+    maxHeight: 200
 
   # 返回顶部设置
   # Backtop settings
