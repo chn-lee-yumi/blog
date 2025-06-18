@@ -168,8 +168,8 @@ params:
   # Site Information Settings
   author: Yumi
   #subtitle:
-  description: 我爱学习，学习爱我！
-  keywords: "Hugo,NexT,Blog,Tech,IT,Linux,Computer Science,Yumi"
+  description: "我爱学习，学习爱我！学习使我快乐！这是Yumi分享技术和生活的博客。"
+  keywords: "Hugo,NexT,Blog,Tech,IT,Linux,Computer Science,Yumi,CHN.Lee,技术,AI,人工智能,机器学习,计算机"
 
   # 不同尺寸站点图标
   # Different size of favicon
