@@ -968,7 +968,7 @@ params:
     #laId: #<anaytics_id>
     # 百度统计
     # Baidu Analytics
-    #baidu: #<anaytics_id>
+    baidu: 32ecdd358ca426172e7ae9a12842ef79
     # 谷歌统计
     # Google Analytics
     google: G-3ME4M97TSJ
