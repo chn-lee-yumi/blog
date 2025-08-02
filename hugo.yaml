@@ -115,16 +115,16 @@ minify:
 # -------------------------------------
 menus:
   main:
+    - identifier: english
+      name: English Version
+      url: https://blog.yumi-cloud.eu.org/
+      pre: earth-americas
+      weight: 1
     - identifier: home
       name: 首页
       pageref: /
       pre: home
-      weight: 1
-#    - identifier: 2016
-#      name: 2016
-#      pageref: /post/2016
-#      pre: book
-#      weight: 2
+      weight: 2
     - identifier: archives
       name: 归档
       pageref: /archives
