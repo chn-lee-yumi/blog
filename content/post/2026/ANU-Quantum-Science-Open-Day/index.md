@@ -1,6 +1,6 @@
 ---
 title: "ANU量子科学开放日体验"
-description: ""
+description: "2025年11月参加的ANU量子科学开放日活动的记录"
 date: 2026-02-01T21:51:00+08:00
 lastmod: 2026-02-01T23:49:00+08:00
 categories:
