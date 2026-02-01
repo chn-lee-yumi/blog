@@ -27,7 +27,7 @@ def compress_images(input_dir, output_dir):
                         # 尝试读取EXIF信息
                         exif_data = img.info.get("exif")
 
-                        # 缩小长宽为原来的1/4
+                        # 缩小长宽为原来的1/ZOOM_RATIO
                         new_width = original_width // ZOOM_RATIO
                         new_height = original_height // ZOOM_RATIO
 
@@ -46,7 +46,7 @@ def compress_images(input_dir, output_dir):
                     print(f"Failed to process {input_path}: {e}")
 
 # 输入与输出文件夹
-input_folder = "content/post/2025/202412Travel"
+input_folder = "content/post/2026/ANU-Quantum-Science-Open-Day"
 # output_folder = input_folder + "_compressed"
 output_folder = input_folder
 
