@@ -2,7 +2,7 @@
 title: "ANU量子科学开放日体验"
 description: ""
 date: 2026-02-01T21:51:00+08:00
-lastmod: 2026-02-01T21:51:00+08:00
+lastmod: 2026-02-01T23:49:00+08:00
 categories:
   - 生活
 tags:
@@ -18,7 +18,7 @@ tags:
 
 我就根据我拍照的顺序来讲吧。注意：所有照片虽然压缩过，但是故意保留了EXIF信息。
 
-一开始就去看了液氮冰激凌的制作，然后还吃上了。液氮冰激凌就是把奶油牛奶糖等成分混合均匀，然后边倒液氮边搅拌。因为液氮温度很低，所以液氮冰激凌里面的水会被迅速冻成很小的冰，使得口感非常顺滑。海报上是这么说的，但我吃着其实和外面买的冰激凌口感差不多。
+一开始就去看了液氮冰激凌的制作，然后还吃上了。液氮冰激凌就是把奶油、牛奶、糖等成分混合均匀，然后边倒液氮边搅拌。因为液氮温度很低，所以液氮冰激凌里面的水会被迅速冻成很小的冰，使得口感非常顺滑。海报上是这么说的，但我吃着其实和外面买的冰激凌口感差不多。
 
 <p><img src="IMG_1482.webp" alt="IMG_1482.webp" width="60%" height="auto"></p>
 
@@ -28,7 +28,7 @@ tags:
 
 然后是神奇的巧克力。这种巧克力表面会有彩色的反光。
 
-<video src="IMG_1488.webm" controls="controls" loop="loop" preload="auto"></video>
+<video src="IMG_1488.webm" controls="controls" loop="loop" preload="auto" width="60%"></video>
 
 我看了下旁边贴的海报，大意就是说，巧克力中可可脂（cocoa butter）的六种晶型（polymorphs），它们的熔点不一样，通过先加热融化然后冷却再加热冷却的过程，可以得到最理想的 V 型（Form V）晶型。这种口感最好。
 
@@ -100,7 +100,7 @@ tags:
 
 <p><img src="IMG_1527.webp" alt="IMG_1527.webp" width="60%" height="auto"></p>
 
-<video src="IMG_1528.webm" controls="controls" loop="loop" preload="auto"></video>
+<video src="IMG_1528.webm" controls="controls" loop="loop" preload="auto" width="60%"></video>
 
 录了一个制作液氮冰激凌过程的视频。
 
