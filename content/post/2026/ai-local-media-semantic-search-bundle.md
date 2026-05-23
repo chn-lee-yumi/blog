@@ -46,6 +46,8 @@ tags:
 
 关闭“run.bat”的运行框即关闭程序。
 
+<p><img src="ai-local-media-semantic-search-bundle-screenshot.webp" alt="AI语义搜索本地素材一键整合包运行图" width="60%" height="auto"></p>
+
 ## 一键整合包视频教程
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116255386242108&bvid=BV1LXwyzkEMA&cid=36815046482&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
