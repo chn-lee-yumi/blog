@@ -46,7 +46,7 @@ def compress_images(input_dir, output_dir):
                     print(f"Failed to process {input_path}: {e}")
 
 # 输入与输出文件夹
-input_folder = "content/post/2026/ANU-Quantum-Science-Open-Day"
+input_folder = "content/post/2026/202601Travel"
 # output_folder = input_folder + "_compressed"
 output_folder = input_folder
 
