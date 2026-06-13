@@ -2,7 +2,7 @@
 title: "2024年12月旅游记录（重庆、成都、长沙）"
 description: "2024年12月我去了重庆、成都、乐山、长沙等城市玩，把旅游记录和感想记下来。"
 date: 2025-01-07T23:01:00+08:00
-lastmod: 2025-01-09T00:03:00+08:00
+lastmod: 2026-06-13T13:07:00+10:00
 categories:
   - 生活
 tags:
@@ -571,3 +571,12 @@ tags:
 - 九寨沟
 - 乐山
 - 长沙：岳麓山、爱晚亭、杜甫江阁、长沙文和友、坡子街、橘子洲
+
+## 视频
+
+我也在B站发了一个视频，我对着每张照片balabala...内容和本文不一样。有兴趣的也可以看一下。（时长1小时17分钟）
+
+
+<div style="max-width: 100%; aspect-ratio: 16 / 9;">
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113802758588194&bvid=BV1KocJe8Em8&cid=27796049048&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
